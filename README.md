@@ -7,12 +7,12 @@
 How It's Made: Tech used: HTML, CSS, JavaScript, Node, Express
 
 This is an API based on the fighitng game Dungeon Fighter Duel. The data currently accesible includes the following:
-
--Chartacter Name (currently : bersereker, dragon knight, enchatress, ghost blade, and crusader)
--Character Archetype
--Character Portait
-- easy Bread and Butter combos (BnB) (All characters)
--videos of associated BnB combos (currently Ghost Blade and Dragon Knight)
-
+<ul>
+<li>Chartacter Name (currently : bersereker, dragon knight, enchatress, ghost blade, and crusader)</li>
+<li>Character Archetype</li>
+<li>Character Portait</li>
+<li> easy Bread and Butter combos (BnB) (All characters)</li>
+<li>videos of associated BnB combos (currently Ghost Blade and Dragon Knight)</li>
+</ul>
 
 Lessons Learned: Creating data can be some very tedious work depending on how much data you decide to include
